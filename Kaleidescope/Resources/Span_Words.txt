@@ -1,0 +1,948 @@
+1
+#1
+2
+100%
+3
+100% free
+4
+100% satisfied
+5
+50% off
+6
+Ad
+7
+All New
+8
+Bargain
+9
+Best Price
+10
+Bonus
+11
+Brand New Pager
+12
+Claims not to be selling anything
+13
+Cost
+14
+Costs
+15
+Credit
+16
+Discount
+17
+Don’t delete
+18
+Email harvest
+19
+Email marketing
+20
+F r e e
+21
+Fast cash
+22
+For free
+23
+For instant access
+24
+For just $xxx
+25
+For just $yyy
+26
+For only
+27
+For you
+28
+Free
+29
+Free and free
+30
+Free consultation
+31
+Free dvd
+32
+Free gift
+33
+Free sample
+34
+Free trial
+35
+Free website
+36
+Gift certificate
+37
+Give it away
+38
+Giving away
+39
+Giving it away
+40
+Great
+41
+Great offer
+42
+Incredible deal
+43
+Insurance
+44
+Internet market
+45
+Internet marketing
+46
+It’s effective
+47
+Lower interest rate
+48
+Lowest interest rate
+49
+Lowest insurance rates
+50
+Lowest price
+51
+Luxury
+52
+Luxury car
+53
+Mortgage
+54
+Mortgage rates
+55
+Name Brand
+56
+New domain extensions
+57
+One hundred percent free
+58
+Outstanding values
+59
+Please read
+60
+Prize
+61
+Prizes
+62
+Profits
+63
+Promise
+64
+Promise you
+65
+Sale
+66
+Sales
+67
+Sample
+68
+Satisfaction
+69
+Satisfaction guaranteed
+70
+Stainless Steel
+71
+Stuff on sale
+72
+The best rates
+73
+We hate spam
+74
+Web traffic
+75
+Will not believe your eyes
+76
+Accept credit cards
+77
+Accordingly
+78
+As seen on
+79
+Avoid
+80
+Cannot be combined with any other offer
+81
+Check
+82
+Check or money order
+83
+Click
+84
+Click Below
+85
+Click Here
+86
+Click to remove
+87
+Compete for your business
+88
+Deal
+89
+Debt
+90
+Direct email
+91
+Direct marketing
+92
+Do it today
+93
+Don’t hesitate
+94
+Form
+95
+Free access
+96
+Free instant
+97
+Full refund
+98
+Investment
+99
+Investment decision
+100
+Life
+101
+Life insurance
+102
+Lifetime
+103
+Mail in order form
+104
+Month trial offer
+105
+Never
+106
+Not junk
+107
+Not spam
+108
+Notspam
+109
+Now
+110
+Obligation
+111
+Offers
+112
+One time mailing
+113
+Only
+114
+Only $
+115
+Open
+116
+Opt-in
+117
+Order
+118
+Order now
+119
+Order shipped by
+120
+Order status
+121
+Order today
+122
+Orders shipped by
+123
+Pennies a day
+124
+Per day
+125
+Per week
+126
+Phone
+127
+Presently
+128
+Price
+129
+Prices
+130
+Print form signature
+131
+Print out and fax
+132
+Priority mail
+133
+Produced and sent out
+134
+Purchase
+135
+Quote
+136
+Rates
+137
+Refund
+138
+Regarding
+139
+Removal
+140
+Removal instructions
+141
+Remove
+142
+Save up to
+143
+Serious only
+144
+Shopper
+145
+Sign up free today
+146
+Solution
+147
+Strong buy
+148
+Subscribe
+149
+Take action
+150
+Tack action now
+151
+Tells you it’s an ad
+152
+Terms and conditions
+153
+The following form
+154
+Trial
+155
+Trial unlimited
+156
+Unlimited
+157
+Unlimited trial
+158
+What are you waiting for?
+159
+What’s keeping you? Nl1Unsubscribe
+160
+Visit our website
+161
+Act Now
+162
+Act Now!
+163
+Action
+164
+Apply now
+165
+Apply online
+166
+Buy
+167
+Buy Direct
+168
+Buying judgements
+169
+Call
+170
+Call free
+171
+Call now
+172
+Can’t live without
+173
+Clearance
+174
+Drastically reduced
+175
+Exclusive deal
+176
+Expire
+177
+Get
+178
+Get it now
+179
+Get started now
+180
+Here
+181
+Important information
+182
+Important information regarding
+183
+Instant
+184
+Limited
+185
+Limited time
+186
+Limited time offer
+187
+Limited time only
+188
+New customers only
+189
+Now only
+190
+Offer expires
+191
+Once in a lifetime
+192
+Once in lifetime
+193
+One time
+194
+One-time
+195
+Serious
+196
+Special promotion
+197
+Supplies
+198
+Supplies are limited
+199
+This won’t last
+200
+Time limited
+201
+Urgent
+202
+While supplies last
+203
+4u
+204
+Acceptance
+205
+Access
+206
+Avoid Bankruptcy
+207
+Being a member
+208
+Boss
+209
+Bulk Email
+210
+Cancel
+211
+Cancel at any time
+212
+Card accepted
+213
+Cards accepted
+214
+Cents on the dollar
+215
+Certified
+216
+Chance
+217
+Cheap
+218
+Compare
+219
+Compare rates
+220
+Congratulations
+221
+Credit card offers
+222
+Cures
+223
+Cures baldness
+224
+Dear [email/friend/somebody]
+225
+Dear friend
+226
+Dormant
+227
+Easy terms
+228
+Expect to earn
+229
+Free grant money
+230
+Free hosting
+231
+Free info
+232
+Free installation
+233
+Free membership
+234
+Freedom
+235
+Friend
+236
+Get out of debt
+237
+Have you been turned down?
+238
+Guarantee
+239
+Guaranteed
+240
+Hello
+241
+Info you requested
+242
+Information you requested
+243
+Join millions
+244
+Join millions of Americans
+245
+Marketing
+246
+Marketing solutions
+247
+Mass email
+248
+Member
+249
+Member stuff
+250
+No age restrictions
+251
+No claim forms
+252
+No experience
+253
+No inventory
+254
+No investment
+255
+No medical exams
+256
+No middleman
+257
+No obligation
+258
+No purchase necessary
+259
+No questions asked
+260
+Offer
+261
+One hundred percent guaranteed
+262
+Opportunity
+263
+Pre-approved
+264
+Save $
+265
+Save big money
+266
+Save money
+267
+See for yourself
+268
+Success
+269
+Thousands
+270
+We honor all
+271
+Win
+272
+Winner
+273
+Winning
+274
+Won
+275
+You are a winner!
+276
+You have been selected!
+277
+You’re a winner!
+278
+Additional Income
+279
+All Natural
+280
+Amazing
+281
+Amazing stuff
+282
+Be Amazed
+283
+Be your own boss
+284
+Big Bucks
+285
+Billion
+286
+Billion Dollars
+287
+Cash
+288
+Cash bonus
+289
+Cashcashcash
+290
+Consolidate debt and credit
+291
+Consolidate your debt
+292
+Double your
+293
+Double your cash
+294
+Double your income
+295
+Earn
+296
+Earn $
+297
+Earn Cash
+298
+Earn extra cash
+299
+Earn per week
+300
+Eliminate bad credit
+301
+Eliminate debt
+302
+Explode your business
+303
+Extra
+304
+Extra cash
+305
+Extra income
+306
+Fantastic
+307
+Fantastic deal
+308
+Financial freedom
+309
+Financially independent
+310
+Free investment
+311
+Free leads
+312
+Free money
+313
+Free offer
+314
+Free preview
+315
+Free priority mail
+316
+Free quote
+317
+Get paid
+318
+Home
+319
+Home based
+320
+Home based business
+321
+Home employment
+322
+Homebased business
+323
+If only it were that easy
+324
+Income
+325
+Income from home
+326
+Increase sales
+327
+Increase traffic
+328
+Increase your sales
+329
+Lose
+330
+Lose weight
+331
+Lose weight spam
+332
+Lower monthly payment
+333
+Lower monthly payments
+334
+Lower your mortgage rate
+335
+Make $
+336
+Make money
+337
+Million
+338
+Million dollars
+339
+Money back
+340
+Money making
+341
+More internet traffic
+342
+Multi level marketing
+343
+Multilevel marketing
+344
+No catch
+345
+No cost
+346
+No credit check
+347
+No disappointment
+348
+No fees
+349
+No gimmick
+350
+No gimmicks
+351
+No hidden
+352
+No hidden costs
+353
+No interest
+354
+No interests
+355
+No selling
+356
+No strings attached
+357
+No obligation
+358
+Online biz opportunity
+359
+Performance
+360
+Potential earnings
+361
+Pure Profit
+362
+Pure profits
+363
+Real thing
+364
+Removes wrinkles
+365
+Reverses
+366
+Reverses aging
+367
+Risk free
+368
+Serious cash
+369
+Stop
+370
+Stop snoring
+371
+They’re just giving it away
+372
+Vacation
+373
+Vacation offers
+374
+Weekend getaway
+375
+Weight
+376
+Weight loss
+377
+While you sleep
+378
+Why pay more?
+379
+Work at home
+380
+Work from home
+381
+Addresses
+382
+Addresses on cd
+383
+Auto email removal
+384
+Beneficiary
+385
+Beverage
+386
+Billing
+387
+Billing Address
+388
+Cable Converter
+389
+Calling creditors
+390
+Casino
+391
+Celebrity
+392
+Cell phone cancer scam
+394
+Claims to be legal
+395
+Collect child support
+396
+Confidentiality on all orders
+397
+Copy accurately
+398
+Copy dvds
+399
+Credit bureaus
+400
+Diagnostics
+401
+Dig up dirt on friends
+402
+Fast Viagra delivery
+403
+Free cell phone
+404
+Hidden
+405
+Hidden assets
+406
+Hidden charges
+407
+Human growth hormone
+408
+In accordance with laws
+409
+Junk
+410
+Laser printer
+411
+Leave
+412
+Legal
+413
+Loan
+414
+Loans
+415
+Long distance phone number
+416
+Medicine
+417
+Medium
+418
+Meet singles
+419
+Message contains
+420
+Message contains disclaimer
+421
+Miracle
+422
+Mlm
+423
+Money
+424
+Nigerian
+425
+Off shore
+426
+Offshore
+427
+Online degree
+428
+Online marketing
+429
+Online pharmacy
+430
+Orders shipped by shopper
+431
+Passwords
+432
+Problem
+433
+Refinance
+434
+Refinance home
+435
+Request
+436
+Requires initial investment
+437
+Reserves the right
+438
+Rolex
+439
+Safeguard notice
+440
+Score
+441
+Score with babes
+442
+Search engine listings
+443
+Search engines
+444
+Section 301
+445
+Sent in compliance
+446
+Shopping spree
+447
+Social security number
+448
+Spam
+449
+Stock alert
+450
+Stock disclaimer statement
+451
+Stock pick
+452
+Subject to cash
+453
+Subject to credit
+454
+Talks about hidden charges
+455
+Teen
+456
+Terms
+457
+They try to keep your money, no refund
+458
+This isn’t spam
+459
+This isn’t junk
+460
+Undisclosed recipient
+461
+University diplomas
+462
+Unsecured credit
+463
+Unsecured debt
+464
+Unsolicited
+465
+U.S. dollars
+466
+Valium
+467
+Viagra
+468
+Vicodin
+469
+The email asks for a credit card
+470
+Warranty
+471
+Who really wins?
+472
+Wife
+473
+Xanax
+474
+Your income
+475
+Lambo
