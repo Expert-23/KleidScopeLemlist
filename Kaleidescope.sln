@@ -5,6 +5,14 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Kaleidescope", "Kaleidescope\Kaleidescope.vbproj", "{F465AEC4-42AD-458B-9D35-AD566C4CC1FC}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HLDA", "HLDA\HLDA.vbproj", "{590885AA-F643-4163-A5DB-FBB0307917DB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Schema", "Schema\Schema.vbproj", "{1EA0FDF9-8588-4065-BA08-65534D4F66FE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Utilities", "Utilities\Utilities.vbproj", "{1EE86649-6581-4371-A3F6-0EE16A878E89}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Primitives", "Primitives\Primitives.vbproj", "{A2F605B9-B5C6-4711-8BA8-0F42B9F20920}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{F465AEC4-42AD-458B-9D35-AD566C4CC1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F465AEC4-42AD-458B-9D35-AD566C4CC1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F465AEC4-42AD-458B-9D35-AD566C4CC1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590885AA-F643-4163-A5DB-FBB0307917DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590885AA-F643-4163-A5DB-FBB0307917DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590885AA-F643-4163-A5DB-FBB0307917DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590885AA-F643-4163-A5DB-FBB0307917DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA0FDF9-8588-4065-BA08-65534D4F66FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA0FDF9-8588-4065-BA08-65534D4F66FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA0FDF9-8588-4065-BA08-65534D4F66FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA0FDF9-8588-4065-BA08-65534D4F66FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE86649-6581-4371-A3F6-0EE16A878E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE86649-6581-4371-A3F6-0EE16A878E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE86649-6581-4371-A3F6-0EE16A878E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE86649-6581-4371-A3F6-0EE16A878E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F605B9-B5C6-4711-8BA8-0F42B9F20920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F605B9-B5C6-4711-8BA8-0F42B9F20920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F605B9-B5C6-4711-8BA8-0F42B9F20920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F605B9-B5C6-4711-8BA8-0F42B9F20920}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
